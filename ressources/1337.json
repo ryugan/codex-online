@@ -1,0 +1,331 @@
+{
+  "name": "1337",
+  "isPremium": false,
+  "minuscule":
+    [
+      {
+        "priority": "1",
+        "normalChar": "a",
+        "translateChar": "4"
+      },
+      {
+        "priority": "2",
+        "normalChar": "b",
+        "translateChar": "8"
+      },
+      {
+        "priority": "3",
+        "normalChar": "j",
+        "translateChar": "(/"
+      },
+      {
+        "priority": "4",
+        "normalChar": "d",
+        "translateChar": "|)"
+      },
+      {
+        "priority": "5",
+        "normalChar": "e",
+        "translateChar": "3"
+      },
+      {
+        "priority": "6",
+        "normalChar": "f",
+        "translateChar": "|="
+      },
+      {
+        "priority": "7",
+        "normalChar": "g",
+        "translateChar": "6"
+      },
+      {
+        "priority": "8",
+        "normalChar": "h",
+        "translateChar": "|-|"
+      },
+      {
+        "priority": "9",
+        "normalChar": "i",
+        "translateChar": "!"
+      },
+      {
+        "priority": "10",
+        "normalChar": "c",
+        "translateChar": "("
+      },
+      {
+        "priority": "11",
+        "normalChar": "k",
+        "translateChar": "|<"
+      },
+      {
+        "priority": "12",
+        "normalChar": "l",
+        "translateChar": "1"
+      },
+      {
+        "priority": "13",
+        "normalChar": "m",
+        "translateChar": "|\\/|"
+      },
+      {
+        "priority": "14",
+        "normalChar": "n",
+        "translateChar": "|\\|"
+      },
+      {
+        "priority": "15",
+        "normalChar": "o",
+        "translateChar": "0"
+      },
+      {
+        "priority": "16",
+        "normalChar": "p",
+        "translateChar": "|°"
+      },
+      {
+        "priority": "17",
+        "normalChar": "q",
+        "translateChar": "°|"
+      },
+      {
+        "priority": "18",
+        "normalChar": "r",
+        "translateChar": "|2"
+      },
+      {
+        "priority": "19",
+        "normalChar": "s",
+        "translateChar": "5"
+      },
+      {
+        "priority": "20",
+        "normalChar": "t",
+        "translateChar": "7"
+      },
+      {
+        "priority": "21",
+        "normalChar": "u",
+        "translateChar": "|_|"
+      },
+      {
+        "priority": "22",
+        "normalChar": "w",
+        "translateChar": "\\/\\/"
+      },
+      {
+        "priority": "23",
+        "normalChar": "v",
+        "translateChar": "\\/"
+      },
+      {
+        "priority": "24",
+        "normalChar": "x",
+        "translateChar": "><"
+      },
+      {
+        "priority": "25",
+        "normalChar": "y",
+        "translateChar": "'/"
+      },
+      {
+        "priority": "26",
+        "normalChar": "z",
+        "translateChar": "2"
+      }
+  ],
+  "majuscule": [
+      {
+        "priority": "1",
+        "normalChar": "A",
+        "translateChar": "4"
+      },
+      {
+        "priority": "2",
+        "normalChar": "B",
+        "translateChar": "8"
+      },
+      {
+        "priority": "3",
+        "normalChar": "J",
+        "translateChar": "(/"
+      },
+      {
+        "priority": "4",
+        "normalChar": "D",
+        "translateChar": "|)"
+      },
+      {
+        "priority": "5",
+        "normalChar": "E",
+        "translateChar": "3"
+      },
+      {
+        "priority": "6",
+        "normalChar": "F",
+        "translateChar": "|="
+      },
+      {
+        "priority": "7",
+        "normalChar": "G",
+        "translateChar": "6"
+      },
+      {
+        "priority": "8",
+        "normalChar": "H",
+        "translateChar": "|-|"
+      },
+      {
+        "priority": "9",
+        "normalChar": "I",
+        "translateChar": "!"
+      },
+      {
+        "priority": "10",
+        "normalChar": "C",
+        "translateChar": "("
+      },
+      {
+        "priority": "11",
+        "normalChar": "K",
+        "translateChar": "|<"
+      },
+      {
+        "priority": "12",
+        "normalChar": "L",
+        "translateChar": "1"
+      },
+      {
+        "priority": "13",
+        "normalChar": "M",
+        "translateChar": "|\\/|"
+      },
+      {
+        "priority": "14",
+        "normalChar": "N",
+        "translateChar": "|\\|"
+      },
+      {
+        "priority": "15",
+        "normalChar": "O",
+        "translateChar": "0"
+      },
+      {
+        "priority": "16",
+        "normalChar": "P",
+        "translateChar": "|°"
+      },
+      {
+        "priority": "17",
+        "normalChar": "Q",
+        "translateChar": "°|"
+      },
+      {
+        "priority": "18",
+        "normalChar": "R",
+        "translateChar": "|2"
+      },
+      {
+        "priority": "19",
+        "normalChar": "S",
+        "translateChar": "5"
+      },
+      {
+        "priority": "20",
+        "normalChar": "T",
+        "translateChar": "7"
+      },
+      {
+        "priority": "21",
+        "normalChar": "U",
+        "translateChar": "|_|"
+      },
+      {
+        "priority": "22",
+        "normalChar": "W",
+        "translateChar": "\\/\\/"
+      },
+      {
+        "priority": "23",
+        "normalChar": "V",
+        "translateChar": "\\/"
+      },
+      {
+        "priority": "24",
+        "normalChar": "X",
+        "translateChar": "><"
+      },
+      {
+        "priority": "25",
+        "normalChar": "Y",
+        "translateChar": "'/"
+      },
+      {
+        "priority": "26",
+        "normalChar": "Z",
+        "translateChar": "2"
+      }
+  ],
+  "speciaux": [
+      {
+        "priority": "1",
+        "normalChar": "é",
+        "translateChar": "3"
+      },
+      {
+        "priority": "2",
+        "normalChar": "è",
+        "translateChar": "3"
+      },
+      {
+        "priority": "3",
+        "normalChar": "ê",
+        "translateChar": "3"
+      },
+      {
+        "priority": "4",
+        "normalChar": "à",
+        "translateChar": "4"
+      },
+      {
+        "priority": "5",
+        "normalChar": "ù",
+        "translateChar": "|_|"
+      },
+      {
+        "priority": "6",
+        "normalChar": "ï",
+        "translateChar": "!"
+      },
+      {
+        "priority": "7",
+        "normalChar": "ö",
+        "translateChar": "0"
+      },
+      {
+        "priority": "8",
+        "normalChar": "î",
+        "translateChar": "!"
+      },
+      {
+        "priority": "9",
+        "normalChar": "ô",
+        "translateChar": "0"
+      },
+      {
+        "priority": "10",
+        "normalChar": "â",
+        "translateChar": "4"
+      },
+      {
+        "priority": "11",
+        "normalChar": "ä",
+        "translateChar": "4"
+      },
+      {
+        "priority": "12",
+        "normalChar": "ë",
+        "translateChar": "3"
+      }
+  ]
+}

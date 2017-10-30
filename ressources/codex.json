@@ -1,0 +1,335 @@
+{
+    "name": "Codex",
+    "isPremium": true,
+    "minuscule": [
+        {
+          "priority": "1",
+          "normalChar": ".",
+          "translateChar": "42"
+        },
+        {
+          "priority": "2",
+          "normalChar": "b",
+          "translateChar": "2"
+        },
+        {
+          "priority": "3",
+          "normalChar": "c",
+          "translateChar": "4"
+        },
+        {
+          "priority": "4",
+          "normalChar": "d",
+          "translateChar": "9"
+        },
+        {
+          "priority": "5",
+          "normalChar": "e",
+          "translateChar": "1"
+        },
+        {
+          "priority": "6",
+          "normalChar": "f",
+          "translateChar": "3"
+        },
+        {
+          "priority": "7",
+          "normalChar": "g",
+          "translateChar": "7"
+        },
+        {
+          "priority": "8",
+          "normalChar": "h",
+          "translateChar": "6"
+        },
+        {
+          "priority": "9",
+          "normalChar": "i",
+          "translateChar": "8"
+        },
+        {
+          "priority": "10",
+          "normalChar": "j",
+          "translateChar": "0"
+        },
+        {
+          "priority": "11",
+          "normalChar": "k",
+          "translateChar": "µ"
+        },
+        {
+          "priority": "12",
+          "normalChar": "l",
+          "translateChar": "*"
+        },
+        {
+          "priority": "13",
+          "normalChar": "m",
+          "translateChar": "-"
+        },
+        {
+          "priority": "14",
+          "normalChar": "n",
+          "translateChar": "+"
+        },
+        {
+          "priority": "15",
+          "normalChar": "o",
+          "translateChar": "/"
+        },
+        {
+          "priority": "16",
+          "normalChar": "p",
+          "translateChar": "&"
+        },
+        {
+          "priority": "17",
+          "normalChar": "q",
+          "translateChar": "°"
+        },
+        {
+          "priority": "18",
+          "normalChar": "r",
+          "translateChar": "~"
+        },
+        {
+          "priority": "19",
+          "normalChar": "s",
+          "translateChar": "#"
+        },
+        {
+          "priority": "20",
+          "normalChar": "t",
+          "translateChar": "'"
+        },
+        {
+          "priority": "21",
+          "normalChar": "u",
+          "translateChar": "@"
+        },
+        {
+          "priority": "22",
+          "normalChar": "v",
+          "translateChar": "}"
+        },
+        {
+          "priority": "23",
+          "normalChar": "w",
+          "translateChar": "{"
+        },
+        {
+          "priority": "24",
+          "normalChar": "x",
+          "translateChar": "€"
+        },
+        {
+          "priority": "25",
+          "normalChar": "y",
+          "translateChar": "¤"
+        },
+        {
+          "priority": "26",
+          "normalChar": "z",
+          "translateChar": "^"
+        },
+        {
+          "priority": "27",
+          "normalChar": "a",
+          "translateChar": "5"
+        }
+    ],
+    "majuscule": [
+        {
+          "priority": "1",
+          "normalChar": "A",
+          "translateChar": "5"
+        },
+        {
+          "priority": "2",
+          "normalChar": "B",
+          "translateChar": "2"
+        },
+        {
+          "priority": "3",
+          "normalChar": "C",
+          "translateChar": "4"
+        },
+        {
+          "priority": "4",
+          "normalChar": "D",
+          "translateChar": "9"
+        },
+        {
+          "priority": "5",
+          "normalChar": "E",
+          "translateChar": "1"
+        },
+        {
+          "priority": "6",
+          "normalChar": "F",
+          "translateChar": "3"
+        },
+        {
+          "priority": "7",
+          "normalChar": "G",
+          "translateChar": "7"
+        },
+        {
+          "priority": "8",
+          "normalChar": "H",
+          "translateChar": "6"
+        },
+        {
+          "priority": "9",
+          "normalChar": "I",
+          "translateChar": "8"
+        },
+        {
+          "priority": "10",
+          "normalChar": "J",
+          "translateChar": "0"
+        },
+        {
+          "priority": "11",
+          "normalChar": "K",
+          "translateChar": "µ"
+        },
+        {
+          "priority": "12",
+          "normalChar": "l",
+          "translateChar": "*"
+        },
+        {
+          "priority": "13",
+          "normalChar": "m",
+          "translateChar": "-"
+        },
+        {
+          "priority": "14",
+          "normalChar": "N",
+          "translateChar": "+"
+        },
+        {
+          "priority": "15",
+          "normalChar": "O",
+          "translateChar": "/"
+        },
+        {
+          "priority": "16",
+          "normalChar": "P",
+          "translateChar": "&"
+        },
+        {
+          "priority": "17",
+          "normalChar": "q",
+          "translateChar": "°"
+        },
+        {
+          "priority": "18",
+          "normalChar": "R",
+          "translateChar": "~"
+        },
+        {
+          "priority": "19",
+          "normalChar": "s",
+          "translateChar": "#"
+        },
+        {
+          "priority": "20",
+          "normalChar": "T",
+          "translateChar": "'"
+        },
+        {
+          "priority": "21",
+          "normalChar": "U",
+          "translateChar": "@"
+        },
+        {
+          "priority": "22",
+          "normalChar": "V",
+          "translateChar": "}"
+        },
+        {
+          "priority": "23",
+          "normalChar": "W",
+          "translateChar": "{"
+        },
+        {
+          "priority": "24",
+          "normalChar": "X",
+          "translateChar": "€"
+        },
+        {
+          "priority": "25",
+          "normalChar": "Y",
+          "translateChar": "¤"
+        },
+        {
+          "priority": "26",
+          "normalChar": "Z",
+          "translateChar": "^"
+        }
+    ],
+    "speciaux": [
+        {
+          "priority": "1",
+          "normalChar": "é",
+          "translateChar": "1"
+        },
+        {
+          "priority": "2",
+          "normalChar": "è",
+          "translateChar": "1"
+        },
+        {
+          "priority": "3",
+          "normalChar": "ê",
+          "translateChar": "1"
+        },
+        {
+          "priority": "4",
+          "normalChar": "à",
+          "translateChar": "5"
+        },
+        {
+          "priority": "5",
+          "normalChar": "ù",
+          "translateChar": "@"
+        },
+        {
+          "priority": "6",
+          "normalChar": "ï",
+          "translateChar": "8"
+        },
+        {
+          "priority": "7",
+          "normalChar": "ö",
+          "translateChar": "/"
+        },
+        {
+          "priority": "8",
+          "normalChar": "î",
+          "translateChar": "8"
+        },
+        {
+          "priority": "9",
+          "normalChar": "ô",
+          "translateChar": "/"
+        },
+        {
+          "priority": "10",
+          "normalChar": "â",
+          "translateChar": "5"
+        },
+        {
+          "priority": "11",
+          "normalChar": "ä",
+          "translateChar": "5"
+        },
+        {
+          "priority": "12",
+          "normalChar": "ë",
+          "translateChar": "1"
+        }
+    ]
+}

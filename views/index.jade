@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1 !{data.title}
+  form(action="/", method="post")
+    hr
+    div(id="Menu")
+      include menu
+    div(id="Body")
+      include body
+    div(id="Footer")
+      hr
+      input(id="Transformer", type="submit", value="Transformer")

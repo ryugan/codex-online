@@ -1,0 +1,26 @@
+h2 Option
+label(for="type") Type :
+br
+
+select(id="traductionSelected", name="traductionSelected")
+
+    each traduction in data.encodageList
+        if data.traductionSelected == traduction
+            option(value="#{traduction}", selected="selected") #{traduction}
+        else
+            option(value="#{traduction}") #{traduction}
+            
+br
+br
+label(id="sens" for="sens") Sens :
+br
+if data.sens == true
+    input(type="radio", name="sens", value="true", checked="checked")
+else
+     input(type="radio", name="sens", value="true")
+label(for="Coder") Coder
+if data.sens == false
+    input(type="radio", name="sens", value="false", checked="checked")
+else
+     input(type="radio", name="sens", value="false")
+label(for="Decoder") Décoder
